@@ -435,7 +435,7 @@ Dialogue: 0,0:25:10.75,0:25:12.57,Default,,0000,0000,0000,,and we go out of ther
 Dialogue: 0,0:25:12.88,0:25:14.77,Default,,0000,0000,0000,,we don't care how we go out of there.
 Dialogue: 0,0:25:14.97,0:25:17.23,Default,,0000,0000,0000,,now this is of course the overly simplified
 Dialogue: 0,0:25:17.23,0:25:17.53,Default,,0000,0000,0000,,we don't ...
-Dialogue: 0,0:25:20.13,0:25:24.46,Default,,0000,0000,0000,,we often have more code working in that critical regin just there
+Dialogue: 0,0:25:20.13,0:25:24.46,Default,,0000,0000,0000,,we often have more code working in that critical region just there
 Dialogue: 0,0:25:24.77,0:25:26.81,Default,,0000,0000,0000,,so we can goes out of there by
 Dialogue: 0,0:25:26.94,0:25:27.70,Default,,0000,0000,0000,,returnning
 Dialogue: 0,0:25:27.70,0:25:29.94,Default,,0000,0000,0000,,by falling off the scope
