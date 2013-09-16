@@ -11,9 +11,7 @@ PlayDepth: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,28,&H00F006E9,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
-
-
+Style: Default,Tahoma,24,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00C0C0C0,-1,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
@@ -35,7 +33,7 @@ Dialogue: 0,0:00:47.05,0:00:50.74,Default,,0000,0000,0000,,和一些更多地支
 Dialogue: 0,0:00:52.84,0:00:57.36,Default,,0000,0000,0000,,我想要介绍我们的主题演讲者
 Dialogue: 0,0:00:57.39,0:00:59.79,Default,,0000,0000,0000,,Bjarne Stroupstrup能够参加真是太好了
 Dialogue: 0,0:01:00.11,0:01:02.02,Default,,0000,0000,0000,,C++ 之父
-Dialogue: 0,0:01:02.27,0:01:04.88,Default,,0000,0000,0000,,他将要教我们 C++ 的精髓
+Dialogue: 0,0:01:02.27,0:01:04.88,Default,,0000,0000,0000,,他将要教我们 C++ 的本质
 Dialogue: 0,0:01:05.05,0:01:06.83,Default,,0000,0000,0000,,感谢他的到来
 Dialogue: 0,0:01:07.10,0:01:10.12,Default,,0000,0000,0000,,------
 Dialogue: 0,0:01:11.20,0:01:15.13,Default,,0000,0000,0000,,好的，欢迎。 麦克风工作正常
@@ -43,7 +41,7 @@ Dialogue: 0,0:01:17.02,0:01:25.56,Default,,0000,0000,0000,,那么在接下来的
 Dialogue: 0,0:01:25.60,0:01:30.49,Default,,0000,0000,0000,,你将会听到许多有关高级技术和新的特性
 Dialogue: 0,0:01:30.80,0:01:36.14,Default,,0000,0000,0000,,我决定在主题演讲中，不会太过深入
 Dialogue: 0,0:01:36.21,0:01:38.62,Default,,0000,0000,0000,,所以我将要试着去做相反的事情
-Dialogue: 0,0:01:38.84,0:01:43.07,Default,,0000,0000,0000,,我将会试着把放在重点什么是 C++ 的精髓上
+Dialogue: 0,0:01:38.84,0:01:43.07,Default,,0000,0000,0000,,我将会试着把放在重点什么是 C++ 的本质上
 Dialogue: 0,0:01:43.36,0:01:48.96,Default,,0000,0000,0000,,那些在过去几十年不变的东西是什么
 Dialogue: 0,0:01:49.05,0:01:55.38,Default,,0000,0000,0000,,还有基本上是什么让 C++ 保持生机勃勃
 Dialogue: 0,0:01:55.45,0:02:02.54,Default,,0000,0000,0000,,当然我不能太过于强调一些新的好东西
@@ -81,7 +79,7 @@ Dialogue: 0,0:04:22.36,0:04:28.08,Default,,0000,0000,0000,,这样的话，严格
 Dialogue: 0,0:04:28.41,0:04:34.35,Default,,0000,0000,0000,,这意思也许是，如果你有一个适用这些领域的工具，那么对其他大多数的东西都有好处。
 Dialogue: 0,0:04:34.38,0:04:37.51,Default,,0000,0000,0000,,这是我的惊喜之一，在早期是
 Dialogue: 0,0:04:37.61,0:04:41.37,Default,,0000,0000,0000,,如此多的系统提示了
-Dialogue: 0,0:04:41.37,0:04:44.70,Default,,0000,0000,0000,,我最感兴趣的精髓的地方
+Dialogue: 0,0:04:41.37,0:04:44.70,Default,,0000,0000,0000,,我最感兴趣的本质的地方
 Dialogue: 0,0:04:44.80,0:04:50.61,Default,,0000,0000,0000,,然后 C++  也非常全面地把剩下的也做完了。
 Dialogue: 0,0:04:50.80,0:04:59.89,Default,,0000,0000,0000,,所以，C++ 在行家眼里是浅显易懂的，清楚明白的。 问题是，这还不够
 Dialogue: 0,0:05:00.07,0:05:05.13,Default,,0000,0000,0000,,如果仅仅是行家明白它，只是行家了解它，那么新手将会对此一无所知。
@@ -185,91 +183,91 @@ Dialogue: 0,0:09:51.10,0:09:52.36,Default,,0000,0000,0000,,要么是销售员
 Dialogue: 0,0:09:52.45,0:09:53.32,Default,,0000,0000,0000,,要么是傻瓜
 Dialogue: 0,0:09:53.40,0:09:54.08,Default,,0000,0000,0000,,要么两者都是
 Dialogue: 0,0:09:57.29,0:10:03.75,Default,,0000,0000,0000,,C++  实际上不打算适合于任何人去做任何事情
-Dialogue: 0,0:10:03.87,0:10:08.28,Default,,0000,0000,0000,,there are things that are less interesting and things that
-Dialogue: 0,0:10:08.68,0:10:10.07,Default,,0000,0000,0000,,you just don't need
-Dialogue: 0,0:10:10.14,0:10:11.31,Default,,0000,0000,0000,,say, the efficiency
-Dialogue: 0,0:10:11.50,0:10:12.40,Default,,0000,0000,0000,,close to hardware things
-Dialogue: 0,0:10:13.21,0:10:14.96,Default,,0000,0000,0000,,or you don't need the abstraction.
-Dialogue: 0,0:10:15.33,0:10:16.60,Default,,0000,0000,0000,,there are alternatives
-Dialogue: 0,0:10:16.84,0:10:18.87,Default,,0000,0000,0000,,we are not trying to be every thing for everybody.
-Dialogue: 0,0:10:19.29,0:10:21.76,Default,,0000,0000,0000,,you has a solid fundamental model
-Dialogue: 0,0:10:22.13,0:10:26.39,Default,,0000,0000,0000,,despite what you might have heard, or what your professors might have told you in class.
-Dialogue: 0,0:10:26.60,0:10:31.47,Default,,0000,0000,0000,,that quite solid model for what c++ is not try to conventional about that
-Dialogue: 0,0:10:32.00,0:10:32.37,Default,,0000,0000,0000,,but
-Dialogue: 0,0:10:32.77,0:10:36.87,Default,,0000,0000,0000,,basically has C's model of the hardware
-Dialogue: 0,0:10:36.87,0:10:43.78,Default,,0000,0000,0000,,and has facilities for principle to add new concept to a program.
-Dialogue: 0,0:10:44.16,0:10:48.39,Default,,0000,0000,0000,,and then this has been refined for 30+ years
-Dialogue: 0,0:10:48.68,0:10:49.72,Default,,0000,0000,0000,,that is it works
-Dialogue: 0,0:10:51.70,0:10:54.51,Default,,0000,0000,0000,,this also means, that it has a lot of "what's"
-Dialogue: 0,0:10:54.86,0:10:56.86,Default,,0000,0000,0000,,it also means we know the "what's".
-Dialogue: 0,0:10:57.34,0:10:59.67,Default,,0000,0000,0000,,people very often shows something new
-Dialogue: 0,0:10:59.85,0:11:02.59,Default,,0000,0000,0000,,because, well, they haven't learn it's weakness yet
-Dialogue: 0,0:11:02.75,0:11:03.75,Default,,0000,0000,0000,,so it looks perfect.
-Dialogue: 0,0:11:04.30,0:11:07.00,Default,,0000,0000,0000,,we know the problems of c++
-Dialogue: 0,0:11:07.25,0:11:09.18,Default,,0000,0000,0000,,that's partly an advantage
-Dialogue: 0,0:11:09.39,0:11:11.93,Default,,0000,0000,0000,,long term stability is a feature.
-Dialogue: 0,0:11:12.55,0:11:17.30,Default,,0000,0000,0000,,that is in the despoil compatibility stuff and crud
-Dialogue: 0,0:11:17.73,0:11:19.52,Default,,0000,0000,0000,,you find that
-Dialogue: 0,0:11:20.18,0:11:25.76,Default,,0000,0000,0000,,it is really nice that, my programs from ten years ago still runs.
-Dialogue: 0,0:11:26.09,0:11:31.86,Default,,0000,0000,0000,,it is really nice because it's sort of assures that our program will run in ten years again.
-Dialogue: 0,0:11:32.09,0:11:36.10,Default,,0000,0000,0000,,we trying not to break old code
-Dialogue: 0,0:11:36.30,0:11:40.80,Default,,0000,0000,0000,,and performance we want to be a match for everything in usually we are.
-Dialogue: 0,0:11:41.01,0:11:49.64,Default,,0000,0000,0000,,and this leads to a set of interesting applications for instance that are very widely used.
-Dialogue: 0,0:11:49.89,0:11:51.46,Default,,0000,0000,0000,,it actually
-Dialogue: 0,0:11:51.68,0:11:56.44,Default,,0000,0000,0000,,what c++ offers cleanly pays off for somebody
-Dialogue: 0,0:11:56.66,0:11:59.24,Default,,0000,0000,0000,,otherwise they wouldn't be using it.
-Dialogue: 0,0:11:59.55,0:12:03.32,Default,,0000,0000,0000,,so i'm going to go into this a little bit detail.
-Dialogue: 0,0:12:04.25,0:12:09.62,Default,,0000,0000,0000,,i'm going to try and get c++ down to just four slides.
-Dialogue: 0,0:12:10.08,0:12:11.49,Default,,0000,0000,0000,,and the rest is details.
-Dialogue: 0,0:12:11.77,0:12:13.40,Default,,0000,0000,0000,,if you understand int and vector
-Dialogue: 0,0:12:13.98,0:12:15.61,Default,,0000,0000,0000,,you understand c++
-Dialogue: 0,0:12:15.61,0:12:17.41,Default,,0000,0000,0000,,and there are a lot of details.
-Dialogue: 0,0:12:17.54,0:12:19.10,Default,,0000,0000,0000,,but don't get lost in them
-Dialogue: 0,0:12:20.10,0:12:20.82,Default,,0000,0000,0000,,that's the point.
-Dialogue: 0,0:12:21.00,0:12:22.18,Default,,0000,0000,0000,,btw
-Dialogue: 0,0:12:22.71,0:12:24.86,Default,,0000,0000,0000,,I've just written another book
-Dialogue: 0,0:12:24.86,0:12:25.80,Default,,0000,0000,0000,,it's very thin
-Dialogue: 0,0:12:26.07,0:12:30.09,Default,,0000,0000,0000,,180 pages of stuff plus an index
-Dialogue: 0,0:12:30.35,0:12:34.43,Default,,0000,0000,0000,,which claims to present all of c++
-Dialogue: 0,0:12:34.73,0:12:37.40,Default,,0000,0000,0000,,at certain level of detail.
-Dialogue: 0,0:12:37.61,0:12:40.36,Default,,0000,0000,0000,,so, if you actually are an inexperienced programmer
-Dialogue: 0,0:12:40.58,0:12:43.20,Default,,0000,0000,0000,,here is where you can get an idea of c++.
-Dialogue: 0,0:12:43.33,0:12:46.39,Default,,0000,0000,0000,,so, that's the end of the advertising.  for now.
-Dialogue: 0,0:12:46.96,0:12:47.59,Default,,0000,0000,0000,,er
-Dialogue: 0,0:12:47.75,0:12:48.19,Default,,0000,0000,0000,,so
-Dialogue: 0,0:12:48.39,0:12:49.18,Default,,0000,0000,0000,,what do we do
-Dialogue: 0,0:12:49.18,0:12:50.70,Default,,0000,0000,0000,,the c++ first of all,
-Dialogue: 0,0:12:50.94,0:12:53.08,Default,,0000,0000,0000,,we have to map things to hardware
-Dialogue: 0,0:12:53.34,0:12:55.96,Default,,0000,0000,0000,,the hardware is where programs run.
-Dialogue: 0,0:12:56.53,0:13:00.64,Default,,0000,0000,0000,,they don't run in mathematical abstractions. the run on hardware.
-Dialogue: 0,0:13:00.96,0:13:05.54,Default,,0000,0000,0000,,and basically the primitives operation are instructions of the machine.
-Dialogue: 0,0:13:09.66,0:13:18.47,Default,,0000,0000,0000,,we have value types (many of them) map directly to machine instructions, some don't. but they are simple. they are values.
-Dialogue: 0,0:13:18.84,0:13:23.88,Default,,0000,0000,0000,,if you understand integer , you understand about anything that is a values
-Dialogue: 0,0:13:23.88,0:13:28.04,Default,,0000,0000,0000,,you can copy an integer, you can do things to it.
-Dialogue: 0,0:13:28.30,0:13:30.11,Default,,0000,0000,0000,,the other kinds are handles
-Dialogue: 0,0:13:30.28,0:13:35.37,Default,,0000,0000,0000,,they have handle to control access to values.
-Dialogue: 0,0:13:35.68,0:13:36.61,Default,,0000,0000,0000,,so, here for instance
-Dialogue: 0,0:13:36.61,0:13:40.35,Default,,0000,0000,0000,,we have a vector that keeps track of how many elements that are
-Dialogue: 0,0:13:41.07,0:13:47.00,Default,,0000,0000,0000,,and give you a subscript operation and copy operation and things like that to manipulate the value.
-Dialogue: 0,0:13:47.20,0:13:49.07,Default,,0000,0000,0000,,and there is a lot of things like that
-Dialogue: 0,0:13:49.39,0:13:52.32,Default,,0000,0000,0000,,but those are two fundamental building blocks we've got
-Dialogue: 0,0:13:52.62,0:13:55.60,Default,,0000,0000,0000,,and we compose them by simple concatenation.
-Dialogue: 0,0:13:55.87,0:13:59.86,Default,,0000,0000,0000,,that's what happens to an array, you put objects next to each other.
-Dialogue: 0,0:14:00.04,0:14:06.31,Default,,0000,0000,0000,,and classes/structs where you put them next to each other usually considered different dimension.
-Dialogue: 0,0:14:06.53,0:14:08.76,Default,,0000,0000,0000,,but basically there is nothing more to it.
-Dialogue: 0,0:14:08.88,0:14:12.22,Default,,0000,0000,0000,,there're ways of composing these basic things
-Dialogue: 0,0:14:12.46,0:14:18.61,Default,,0000,0000,0000,,and when you look at your code. you can sort of think about what is in the memory and understand it
-Dialogue: 0,0:14:18.81,0:14:23.80,Default,,0000,0000,0000,,and when it comes to an primitive operation you can see which primitive operations are done.
-Dialogue: 0,0:14:25.16,0:14:30.54,Default,,0000,0000,0000,,then, to get away from this very concrete low level view
-Dialogue: 0,0:14:31.38,0:14:32.69,Default,,0000,0000,0000,,we have classes
-Dialogue: 0,0:14:33.08,0:14:37.48,Default,,0000,0000,0000,,the most important part of  classes I think acturally is constructors and destructors.
-Dialogue: 0,0:14:38.76,0:14:40.52,Default,,0000,0000,0000,,we define ourself a new type
-Dialogue: 0,0:14:41.22,0:14:44.45,Default,,0000,0000,0000,,and when we initialize it
-Dialogue: 0,0:14:44.86,0:14:45.89,Default,,0000,0000,0000,,with some value
-Dialogue: 0,0:14:46.24,0:14:48.20,Default,,0000,0000,0000,,that's called construction
-Dialogue: 0,0:14:49.69,0:14:51.54,Default,,0000,0000,0000,,when we're finished, clean up the mess.
-Dialogue: 0,0:14:51.96,0:14:56.92,Default,,0000,0000,0000,,if this is a resource handle, this will acquire resources and this will release it.
-Dialogue: 0,0:14:57.10,0:15:02.89,Default,,0000,0000,0000,,so, basically there is a clue form about two weak insulate design we've seen in classes long time ago.
+Dialogue: 0,0:10:03.87,0:10:08.28,Default,,0000,0000,0000,,有些东西不太有趣并且
+Dialogue: 0,0:10:08.68,0:10:10.07,Default,,0000,0000,0000,,你也不需要
+Dialogue: 0,0:10:10.14,0:10:11.31,Default,,0000,0000,0000,,也就是说
+Dialogue: 0,0:10:11.50,0:10:12.40,Default,,0000,0000,0000,,高效、接近硬件的东西
+Dialogue: 0,0:10:13.21,0:10:14.96,Default,,0000,0000,0000,,或者你并不需要抽象
+Dialogue: 0,0:10:15.33,0:10:16.60,Default,,0000,0000,0000,,你总是有其他选择
+Dialogue: 0,0:10:16.84,0:10:18.87,Default,,0000,0000,0000,,我们不会努力去为每个人做所有的事情
+Dialogue: 0,0:10:19.29,0:10:21.76,Default,,0000,0000,0000,,你有一个可靠的基本模型
+Dialogue: 0,0:10:22.13,0:10:26.39,Default,,0000,0000,0000,,不管这是你听来的，或者是课堂上教授告诉你的
+Dialogue: 0,0:10:26.60,0:10:31.47,Default,,0000,0000,0000,,这非常可靠的基本模型是什么？C++ 不会努力去让它成为惯例
+Dialogue: 0,0:10:32.00,0:10:32.37,Default,,0000,0000,0000,,但是
+Dialogue: 0,0:10:32.77,0:10:36.87,Default,,0000,0000,0000,,基本上，会有 C 的硬件模型
+Dialogue: 0,0:10:36.87,0:10:43.78,Default,,0000,0000,0000,,和遵循添加新概念到程序的原则的设备
+Dialogue: 0,0:10:44.16,0:10:48.39,Default,,0000,0000,0000,,然后这已经改进了 30年
+Dialogue: 0,0:10:48.68,0:10:49.72,Default,,0000,0000,0000,,这确实如此，并且效果不错
+Dialogue: 0,0:10:51.70,0:10:54.51,Default,,0000,0000,0000,,这也意味着，这有非常多的“是什么”
+Dialogue: 0,0:10:54.86,0:10:56.86,Default,,0000,0000,0000,,这也意味着我们知道“是什么”
+Dialogue: 0,0:10:57.34,0:10:59.67,Default,,0000,0000,0000,,人们老是经常选择新的东西
+Dialogue: 0,0:10:59.85,0:11:02.59,Default,,0000,0000,0000,,因为，没错， 他们还没有了解它的劣势
+Dialogue: 0,0:11:02.75,0:11:03.75,Default,,0000,0000,0000,,所以它看起来很完美。
+Dialogue: 0,0:11:04.30,0:11:07.00,Default,,0000,0000,0000,,我们知道 C++ 的问题
+Dialogue: 0,0:11:07.25,0:11:09.18,Default,,0000,0000,0000,,这部分是一个优势
+Dialogue: 0,0:11:09.39,0:11:11.93,Default,,0000,0000,0000,,长期稳定性是一个特性
+Dialogue: 0,0:11:12.55,0:11:17.30,Default,,0000,0000,0000,,这是剥夺了兼容性并且含有杂质的东西
+Dialogue: 0,0:11:17.73,0:11:19.52,Default,,0000,0000,0000,,你会发现
+Dialogue: 0,0:11:20.18,0:11:25.76,Default,,0000,0000,0000,,我十年前的程序现在仍旧运行，真的很棒
+Dialogue: 0,0:11:26.09,0:11:31.86,Default,,0000,0000,0000,,这真的很棒，因为这确保了我们的程序在十年后仍能运行
+Dialogue: 0,0:11:32.09,0:11:36.10,Default,,0000,0000,0000,,我们尽力不让旧的代码失效
+Dialogue: 0,0:11:36.30,0:11:40.80,Default,,0000,0000,0000,,性能要像我们一贯要求的那样
+Dialogue: 0,0:11:41.01,0:11:49.64,Default,,0000,0000,0000,,这促使了一套有趣的应用程序，作为我们非常广泛使用的实例。
+Dialogue: 0,0:11:49.89,0:11:51.46,Default,,0000,0000,0000,,实际上
+Dialogue: 0,0:11:51.68,0:11:56.44,Default,,0000,0000,0000,,C++ 所提供的，显然给一些人带来了好处
+Dialogue: 0,0:11:56.66,0:11:59.24,Default,,0000,0000,0000,,否则，他们不会使用它
+Dialogue: 0,0:11:59.55,0:12:03.32,Default,,0000,0000,0000,,所以我打算对这进行详细一点的讨论
+Dialogue: 0,0:12:04.25,0:12:09.62,Default,,0000,0000,0000,,打算尝试压缩 C++ 的内容，仅使用四张幻灯片
+Dialogue: 0,0:12:10.08,0:12:11.49,Default,,0000,0000,0000,,其余的就是细节
+Dialogue: 0,0:12:11.77,0:12:13.40,Default,,0000,0000,0000,,如果你理解 int 和 vector
+Dialogue: 0,0:12:13.98,0:12:15.61,Default,,0000,0000,0000,,那么你就理解了 C++
+Dialogue: 0,0:12:15.61,0:12:17.41,Default,,0000,0000,0000,,会有非常多的细节
+Dialogue: 0,0:12:17.54,0:12:19.10,Default,,0000,0000,0000,,但是不要被它们弄得迷惑不解了
+Dialogue: 0,0:12:20.10,0:12:20.82,Default,,0000,0000,0000,,这就是重点
+Dialogue: 0,0:12:21.00,0:12:22.18,Default,,0000,0000,0000,,顺便提一下
+Dialogue: 0,0:12:22.71,0:12:24.86,Default,,0000,0000,0000,,我刚写了另一本书
+Dialogue: 0,0:12:24.86,0:12:25.80,Default,,0000,0000,0000,,它非常的薄
+Dialogue: 0,0:12:26.07,0:12:30.09,Default,,0000,0000,0000,,短短180页的内容加上一个索引
+Dialogue: 0,0:12:30.35,0:12:34.43,Default,,0000,0000,0000,,在一定程度的细节上
+Dialogue: 0,0:12:34.73,0:12:37.40,Default,,0000,0000,0000,,比较完整的介绍了c++
+Dialogue: 0,0:12:37.61,0:12:40.36,Default,,0000,0000,0000,,因此，如果你确实是个缺乏经验的程序员
+Dialogue: 0,0:12:40.58,0:12:43.20,Default,,0000,0000,0000,,你能够在这本书里了解到 C++ 的思想
+Dialogue: 0,0:12:43.33,0:12:46.39,Default,,0000,0000,0000,,好了， 现在广告就到此为止
+Dialogue: 0,0:12:46.96,0:12:47.59,Default,,0000,0000,0000,,额
+Dialogue: 0,0:12:47.75,0:12:48.19,Default,,0000,0000,0000,,那么
+Dialogue: 0,0:12:48.39,0:12:49.18,Default,,0000,0000,0000,,我们该做什么
+Dialogue: 0,0:12:49.18,0:12:50.70,Default,,0000,0000,0000,,在 C++ 中，首先
+Dialogue: 0,0:12:50.94,0:12:53.08,Default,,0000,0000,0000,,我们必须映射东西到硬件上
+Dialogue: 0,0:12:53.34,0:12:55.96,Default,,0000,0000,0000,,程序就是运行在硬件上的
+Dialogue: 0,0:12:56.53,0:13:00.64,Default,,0000,0000,0000,,他们不是在数学抽象而是硬件上运行
+Dialogue: 0,0:13:00.96,0:13:05.54,Default,,0000,0000,0000,,实际上，原始操作是机器指令
+Dialogue: 0,0:13:09.66,0:13:18.47,Default,,0000,0000,0000,,我们有大部分的数值类型直接映射到机器指令，而有些不是 。但是这很简单，它们是值
+Dialogue: 0,0:13:18.84,0:13:23.88,Default,,0000,0000,0000,,如果理解整数，那么你会知道任何东西都是一个值
+Dialogue: 0,0:13:23.88,0:13:28.04,Default,,0000,0000,0000,,你能复制一个整数，你能操作它
+Dialogue: 0,0:13:28.30,0:13:30.11,Default,,0000,0000,0000,,另一种是句柄
+Dialogue: 0,0:13:30.28,0:13:35.37,Default,,0000,0000,0000,,他们利用句柄控制对值的访问
+Dialogue: 0,0:13:35.68,0:13:36.61,Default,,0000,0000,0000,,那么这里，举个例子
+Dialogue: 0,0:13:36.61,0:13:40.35,Default,,0000,0000,0000,,我们有个 vector ，记录这里有多少个元素
+Dialogue: 0,0:13:41.07,0:13:47.00,Default,,0000,0000,0000,,你可以使用下标，复制，和诸如此类的来操作值
+Dialogue: 0,0:13:47.20,0:13:49.07,Default,,0000,0000,0000,,有非常多的诸如此类的事情
+Dialogue: 0,0:13:49.39,0:13:52.32,Default,,0000,0000,0000,,但这些是我们了解的两个基本结构单元
+Dialogue: 0,0:13:52.62,0:13:55.60,Default,,0000,0000,0000,,我们通过简单的串联来组合它们
+Dialogue: 0,0:13:55.87,0:13:59.86,Default,,0000,0000,0000,,这就是你把对象相邻地存放在数组所发生的
+Dialogue: 0,0:14:00.04,0:14:06.31,Default,,0000,0000,0000,,你把它们相邻地存放在类或者结构体，这通常认为是不同维度的
+Dialogue: 0,0:14:06.53,0:14:08.76,Default,,0000,0000,0000,,但是从根本上说这没有什么不同
+Dialogue: 0,0:14:08.88,0:14:12.22,Default,,0000,0000,0000,,这是组合基本东西的各种方式罢了
+Dialogue: 0,0:14:12.46,0:14:18.61,Default,,0000,0000,0000,,当你阅读你的代码，你思考在内存里会是什么，然后理解它
+Dialogue: 0,0:14:18.81,0:14:23.80,Default,,0000,0000,0000,,当谈到原始操作，你会明白完成了哪个原始操作
+Dialogue: 0,0:14:25.16,0:14:30.54,Default,,0000,0000,0000,,那么，避免这种非常具体的低级观念
+Dialogue: 0,0:14:31.38,0:14:32.69,Default,,0000,0000,0000,,我们有类
+Dialogue: 0,0:14:33.08,0:14:37.48,Default,,0000,0000,0000,,在类里面我认为最重要的是构造函数和析构函数
+Dialogue: 0,0:14:38.76,0:14:40.52,Default,,0000,0000,0000,,我们自己定义一个新的类型
+Dialogue: 0,0:14:41.22,0:14:44.45,Default,,0000,0000,0000,,当我们初始化
+Dialogue: 0,0:14:44.86,0:14:45.89,Default,,0000,0000,0000,,赋予一些值
+Dialogue: 0,0:14:46.24,0:14:48.20,Default,,0000,0000,0000,,这称作构造函数
+Dialogue: 0,0:14:49.69,0:14:51.54,Default,,0000,0000,0000,,当我们完成时，清理乱糟糟的东西
+Dialogue: 0,0:14:51.96,0:14:56.92,Default,,0000,0000,0000,,如果这是资源句柄，这将会获得资源并释放它
+Dialogue: 0,0:14:57.10,0:15:02.89,Default,,0000,0000,0000,,因此，基本上这在很久之前，是一个我们在类里面看到的弱隔离设计的线索
 Dialogue: 0,0:15:02.93,0:15:06.28,Default,,0000,0000,0000,,a constructor establishes the environment for the members to run in
 Dialogue: 0,0:15:06.53,0:15:08.48,Default,,0000,0000,0000,,the destructor reverse its actions.
 Dialogue: 0,0:15:08.70,0:15:10.29,Default,,0000,0000,0000,,it's like a pair of pants phrase
