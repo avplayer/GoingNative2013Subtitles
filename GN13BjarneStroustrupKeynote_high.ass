@@ -1078,7 +1078,7 @@ Dialogue: 0,1:10:02.79,1:10:04.53,Default,,0000,0000,0000,,we don't actually ver
 Dialogue: 0,1:10:04.66,1:10:07.86,Default,,0000,0000,0000,,we think it can be verified but you have to be very careful.
 Dialogue: 0,1:10:07.96,1:10:09.99,Default,,0000,0000,0000,,those of you who has ...
 Dialogue: 0,1:10:10.06,1:10:10.93,Default,,0000,0000,0000,,err...
-Dialogue: 0,1:10:10.93,1:10:16.40,Default,,0000,0000,0000,,have work with strict functional languages like haskell
+Dialogue: 0,1:10:10.93,1:10:16.40,Default,,0000,0000,0000,,have work with strict functional languages like Haskell
 Dialogue: 0,1:10:16.40,1:10:26.43,Default,,0000,0000,0000,,we know it's really hard to debug, because you make some slight change to the implementation, like insert the extern model printf, the interface change, and every thing has to change.
 Dialogue: 0,1:10:26.58,1:10:27.95,Default,,0000,0000,0000,,that is painful.
 Dialogue: 0,1:10:27.95,1:10:33.68,Default,,0000,0000,0000,,we didn't want to go that, we need more work more experience before we standardized something like that.
