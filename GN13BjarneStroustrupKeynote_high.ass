@@ -1082,7 +1082,7 @@ Dialogue: 0,1:10:10.93,1:10:16.40,Default,,0000,0000,0000,,have work with strict
 Dialogue: 0,1:10:16.40,1:10:26.43,Default,,0000,0000,0000,,we know it's really hard to debug, because you make some slight change to the implementation, like insert the extern model printf, the interface change, and every thing has to change.
 Dialogue: 0,1:10:26.58,1:10:27.95,Default,,0000,0000,0000,,that is painful.
 Dialogue: 0,1:10:27.95,1:10:33.68,Default,,0000,0000,0000,,we didn't want to go that, we need more work more experience before we standardized something like that.
-Dialogue: 0,1:10:33.68,1:10:37.10,Default,,0000,0000,0000,,and we don't actuallu use requires that much.
+Dialogue: 0,1:10:33.68,1:10:37.10,Default,,0000,0000,0000,,and we don't actually use requires that much.
 Dialogue: 0,1:10:37.85,1:10:40.34,Default,,0000,0000,0000,,overloading is fairly easy.
 Dialogue: 0,1:10:40.34,1:10:45.39,Default,,0000,0000,0000,,we have two versions of find, one for sequences and one for associative containers.
 Dialogue: 0,1:10:45.60,1:10:47.58,Default,,0000,0000,0000,,if I take a vector or multiset
