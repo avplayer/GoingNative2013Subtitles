@@ -1180,7 +1180,7 @@ Dialogue: 0,1:18:27.23,1:18:29.94,Default,,0000,0000,0000,,c++ challenges.
 Dialogue: 0,1:18:30.62,1:18:40.95,Default,,0000,0000,0000,,so, we want to make a better languages , and we also want to convince programmers that the new stuff actually worth well.
 Dialogue: 0,1:18:41.42,1:18:47.21,Default,,0000,0000,0000,,and that's relatively easy for actually getting people to use in large code bases.
 Dialogue: 0,1:18:47.21,1:18:54.00,Default,,0000,0000,0000,,but. we first have to improve the languages and then we have convince people that use worth well.
-Dialogue: 0,1:18:54.00,1:19:04.24,Default,,0000,0000,0000,,and then we can start seeing the partial problems of introducing it into the existing code bases that doesn't have it.
+Dialogue: 0,1:18:54.00,1:19:04.24,Default,,0000,0000,0000,,and then we can start seeing the practical problems of introducing it into the existing code bases that doesn't have it.
 Dialogue: 0,1:19:04.44,1:19:10.14,Default,,0000,0000,0000,,I refer to that as source code rejuvenation, and I think that is going to be an important issue.
 Dialogue: 0,1:19:11.01,1:19:12.40,Default,,0000,0000,0000,,so basically
 Dialogue: 0,1:19:12.93,1:19:14.88,Default,,0000,0000,0000,,what ever we do  to the language
