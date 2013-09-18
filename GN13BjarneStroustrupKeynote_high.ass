@@ -1204,7 +1204,7 @@ Dialogue: 0,1:20:33.29,1:20:36.62,Default,,0000,0000,0000,,we need to address co
 Dialogue: 0,1:20:36.62,1:20:48.26,Default,,0000,0000,0000,,we need some thing that's higher level than the threads, locks style programming which is universal necessary
 Dialogue: 0,1:20:48.26,1:20:51.49,Default,,0000,0000,0000,,and about the worse way writing concurrency system that I know of.
 Dialogue: 0,1:20:51.76,1:20:55.92,Default,,0000,0000,0000,,we need to build libraries that provide higher-level models
-Dialogue: 0,1:20:56.39,1:20:58.91,Default,,0000,0000,0000,,we want to simply generic programming
+Dialogue: 0,1:20:56.39,1:20:58.91,Default,,0000,0000,0000,,we want to simplify generic programming
 Dialogue: 0,1:20:59.28,1:21:02.16,Default,,0000,0000,0000,,I'm looking at concepts
 Dialogue: 0,1:21:02.16,1:21:03.61,Default,,0000,0000,0000,,we should ..
 Dialogue: 0,1:21:03.61,1:21:08.09,Default,,0000,0000,0000,,I means some of us have them today, but we need have them all next year.
