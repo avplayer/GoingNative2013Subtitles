@@ -1244,7 +1244,7 @@ Dialogue: 0,1:24:20.44,1:24:22.95,Default,,0000,0000,0000,,nothing was over turn
 Dialogue: 0,1:24:22.95,1:24:27.59,Default,,0000,0000,0000,,you incorporate the old stuff, maybe you have to re-phrase the old stuff
 Dialogue: 0,1:24:27.59,1:24:31.36,Default,,0000,0000,0000,,newton mechanism just not disappear just because of Einstein
 Dialogue: 0,1:24:31.96,1:24:37.09,Default,,0000,0000,0000,,it became special case, actually a very useful special case.
-Dialogue: 0,1:24:37.16,1:24:48.95,Default,,0000,0000,0000,,similarly, I would like to see OOP, GE, and conventional programming just as differential aspects that you can use in combinations
+Dialogue: 0,1:24:37.16,1:24:48.95,Default,,0000,0000,0000,,similarly, I would like to see OOP, GP, and conventional programming just as differential aspects that you can use in combinations
 Dialogue: 0,1:24:49.26,1:24:59.35,Default,,0000,0000,0000,,and I want be able to develop rules for how you do things that doesn't chock in terms of these paradigms which might become semi religions.
 Dialogue: 0,1:24:59.85,1:25:05.72,Default,,0000,0000,0000,,and the focus has been on  language features
 Dialogue: 0,1:25:05.72,1:25:08.65,Default,,0000,0000,0000,,do I write templates do I write virtual functions
