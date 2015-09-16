@@ -1075,14 +1075,14 @@ Dialogue: 0,1:09:47.56,1:09:52.25,Default,,0000,0000,0000,,we don't see problems
 Dialogue: 0,1:09:52.57,1:09:55.95,Default,,0000,0000,0000,,that is, we check the use of a template
 Dialogue: 0,1:09:55.95,1:10:02.79,Default,,0000,0000,0000,,if a template specify to require something, we assume that the implementation will stick to that contract.
 Dialogue: 0,1:10:02.79,1:10:04.53,Default,,0000,0000,0000,,we don't actually verify it.
-Dialogue: 0,1:10:04.66,1:10:07.86,Default,,0000,0000,0000,,we think it can be verified bu you have to be very careful.
+Dialogue: 0,1:10:04.66,1:10:07.86,Default,,0000,0000,0000,,we think it can be verified but you have to be very careful.
 Dialogue: 0,1:10:07.96,1:10:09.99,Default,,0000,0000,0000,,those of you who has ...
 Dialogue: 0,1:10:10.06,1:10:10.93,Default,,0000,0000,0000,,err...
-Dialogue: 0,1:10:10.93,1:10:16.40,Default,,0000,0000,0000,,have work with strict functional languages like haskell
+Dialogue: 0,1:10:10.93,1:10:16.40,Default,,0000,0000,0000,,have work with strict functional languages like Haskell
 Dialogue: 0,1:10:16.40,1:10:26.43,Default,,0000,0000,0000,,we know it's really hard to debug, because you make some slight change to the implementation, like insert the extern model printf, the interface change, and every thing has to change.
 Dialogue: 0,1:10:26.58,1:10:27.95,Default,,0000,0000,0000,,that is painful.
 Dialogue: 0,1:10:27.95,1:10:33.68,Default,,0000,0000,0000,,we didn't want to go that, we need more work more experience before we standardized something like that.
-Dialogue: 0,1:10:33.68,1:10:37.10,Default,,0000,0000,0000,,and we don't actuallu use requires that much.
+Dialogue: 0,1:10:33.68,1:10:37.10,Default,,0000,0000,0000,,and we don't actually use requires that much.
 Dialogue: 0,1:10:37.85,1:10:40.34,Default,,0000,0000,0000,,overloading is fairly easy.
 Dialogue: 0,1:10:40.34,1:10:45.39,Default,,0000,0000,0000,,we have two versions of find, one for sequences and one for associative containers.
 Dialogue: 0,1:10:45.60,1:10:47.58,Default,,0000,0000,0000,,if I take a vector or multiset
@@ -1180,7 +1180,7 @@ Dialogue: 0,1:18:27.23,1:18:29.94,Default,,0000,0000,0000,,c++ challenges.
 Dialogue: 0,1:18:30.62,1:18:40.95,Default,,0000,0000,0000,,so, we want to make a better languages , and we also want to convince programmers that the new stuff actually worth well.
 Dialogue: 0,1:18:41.42,1:18:47.21,Default,,0000,0000,0000,,and that's relatively easy for actually getting people to use in large code bases.
 Dialogue: 0,1:18:47.21,1:18:54.00,Default,,0000,0000,0000,,but. we first have to improve the languages and then we have convince people that use worth well.
-Dialogue: 0,1:18:54.00,1:19:04.24,Default,,0000,0000,0000,,and then we can start seeing the partial problems of introducing it into the existing code bases that doesn't have it.
+Dialogue: 0,1:18:54.00,1:19:04.24,Default,,0000,0000,0000,,and then we can start seeing the practical problems of introducing it into the existing code bases that doesn't have it.
 Dialogue: 0,1:19:04.44,1:19:10.14,Default,,0000,0000,0000,,I refer to that as source code rejuvenation, and I think that is going to be an important issue.
 Dialogue: 0,1:19:11.01,1:19:12.40,Default,,0000,0000,0000,,so basically
 Dialogue: 0,1:19:12.93,1:19:14.88,Default,,0000,0000,0000,,what ever we do  to the language
@@ -1203,13 +1203,13 @@ Dialogue: 0,1:20:27.80,1:20:32.56,Default,,0000,0000,0000,,I would like to close
 Dialogue: 0,1:20:33.29,1:20:36.62,Default,,0000,0000,0000,,we need to address concurrent programming
 Dialogue: 0,1:20:36.62,1:20:48.26,Default,,0000,0000,0000,,we need some thing that's higher level than the threads, locks style programming which is universal necessary
 Dialogue: 0,1:20:48.26,1:20:51.49,Default,,0000,0000,0000,,and about the worse way writing concurrency system that I know of.
-Dialogue: 0,1:20:51.76,1:20:55.92,Default,,0000,0000,0000,,we need to build libraries that provide higher models
-Dialogue: 0,1:20:56.39,1:20:58.91,Default,,0000,0000,0000,,we want to simply generic programming
+Dialogue: 0,1:20:51.76,1:20:55.92,Default,,0000,0000,0000,,we need to build libraries that provide higher-level models
+Dialogue: 0,1:20:56.39,1:20:58.91,Default,,0000,0000,0000,,we want to simplify generic programming
 Dialogue: 0,1:20:59.28,1:21:02.16,Default,,0000,0000,0000,,I'm looking at concepts
 Dialogue: 0,1:21:02.16,1:21:03.61,Default,,0000,0000,0000,,we should ..
 Dialogue: 0,1:21:03.61,1:21:08.09,Default,,0000,0000,0000,,I means some of us have them today, but we need have them all next year.
-Dialogue: 0,1:21:09.72,1:21:13.35,Default,,0000,0000,0000,,and we want to simply programming using class hierarchies
-Dialogue: 0,1:21:13.35,1:21:23.62,Default,,0000,0000,0000,,I've been doing some work on  ..... multiple methods and functional style ... patten matching
+Dialogue: 0,1:21:09.72,1:21:13.35,Default,,0000,0000,0000,,and we want to simplify programming using class hierarchies
+Dialogue: 0,1:21:13.35,1:21:23.62,Default,,0000,0000,0000,,I've been doing some work on  ..... multimethods and functional style ... pattern matching
 Dialogue: 0,1:21:23.91,1:21:30.21,Default,,0000,0000,0000,,some of it is available on my homepage, on the publications and software also available.
 Dialogue: 0,1:21:30.57,1:21:37.79,Default,,0000,0000,0000,,but that's the research work, but I hope some of it gets into the language if not now then later.
 Dialogue: 0,1:21:37.79,1:21:41.67,Default,,0000,0000,0000,,you have to think in-long-term in this kinds of stuff.
@@ -1238,13 +1238,13 @@ Dialogue: 0,1:23:37.03,1:23:42.22,Default,,0000,0000,0000,,and we want to develo
 Dialogue: 0,1:23:42.31,1:23:48.48,Default,,0000,0000,0000,,I think English text is.. err, is ,,, maxing out in terms of what we can handle.
 Dialogue: 0,1:23:49.23,1:23:53.40,Default,,0000,0000,0000,,finally I just do a little rant.
 Dialogue: 0,1:23:53.40,1:23:57.09,Default,,0000,0000,0000,,I really dislike the word paradigms.
-Dialogue: 0,1:23:57.67,1:24:08.58,Default,,0000,0000,0000,,it was invented by coon and imply some superiority of one paradigms over another. and thins changes, everything changes, nor the older stuff became bad.
+Dialogue: 0,1:23:57.67,1:24:08.58,Default,,0000,0000,0000,,it was invented by coon and imply some superiority of one paradigms over another. and things changes, everything changes, nor the older stuff became bad.
 Dialogue: 0,1:24:10.38,1:24:19.72,Default,,0000,0000,0000,,Kristen Nygaard said, you know, addiction didn't actually become useless just because we invented multiplication
 Dialogue: 0,1:24:20.44,1:24:22.95,Default,,0000,0000,0000,,nothing was over turned
 Dialogue: 0,1:24:22.95,1:24:27.59,Default,,0000,0000,0000,,you incorporate the old stuff, maybe you have to re-phrase the old stuff
 Dialogue: 0,1:24:27.59,1:24:31.36,Default,,0000,0000,0000,,newton mechanism just not disappear just because of Einstein
 Dialogue: 0,1:24:31.96,1:24:37.09,Default,,0000,0000,0000,,it became special case, actually a very useful special case.
-Dialogue: 0,1:24:37.16,1:24:48.95,Default,,0000,0000,0000,,similarly, I would like to see OOP, GE, and conventional programming just as differential aspects that you can use in combinations
+Dialogue: 0,1:24:37.16,1:24:48.95,Default,,0000,0000,0000,,similarly, I would like to see OOP, GP, and conventional programming just as differential aspects that you can use in combinations
 Dialogue: 0,1:24:49.26,1:24:59.35,Default,,0000,0000,0000,,and I want be able to develop rules for how you do things that doesn't chock in terms of these paradigms which might become semi religions.
 Dialogue: 0,1:24:59.85,1:25:05.72,Default,,0000,0000,0000,,and the focus has been on  language features
 Dialogue: 0,1:25:05.72,1:25:08.65,Default,,0000,0000,0000,,do I write templates do I write virtual functions
